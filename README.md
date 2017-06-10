@@ -1,11 +1,12 @@
 # Mantis_EU
 
-CNC on a budget
+##CNC on a budget
 
-![basic rendering]("https://raw.githubusercontent.com/jeromepar/Mantis_EU/develop/Renderings/mantis JP_2.PNG")
+![basic rendering](https://raw.githubusercontent.com/jeromepar/Mantis_EU/develop/Renderings/mantis\ JP_2.PNG)
 
-Adaptation from the Mantis CNC design in order to build it in the EU (dimensions & providers)
+##Adaptation from the Mantis CNC design in order to build it in the EU (dimensions & providers)
 
+###Key information:
 - 350*350mm frame
 - Work area of 100*220mm (roughly an A5 sheet)
 - Frame in 15mm plywood
@@ -13,10 +14,10 @@ Adaptation from the Mantis CNC design in order to build it in the EU (dimensions
 - Control from Arduino UNO hosting GRBL
 - CNC shield by Protoneer [http://blog.protoneer.co.nz/arduino-cnc-shield/]
 
-This repository contains:
+###This repository contains:
 - CAD parts
 - Some rendered pictures
 - the B.O.M.
 
-basic required hardware:
+###Basic required hardware:
 - bench drill
