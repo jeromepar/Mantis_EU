@@ -1,6 +1,6 @@
 # Mantis_EU
 
-## CNC on a budget
+## CNC on a budget **(roughly 220€)**
 
 -------------
 
@@ -9,7 +9,7 @@
 ## Adaptation from the Mantis CNC design in order to build it in the EU (dimensions & providers)
 
 ### Key information:
-- **Total price around 200€**
+- **__Total price around 220€__**
 - 350*350mm frame
 - *Work area of 100*220mm* (roughly an A5 sheet)
 - Frame in 15mm plywood
@@ -20,8 +20,9 @@
 ### This repository contains:
 - CAD parts
 - Some rendered pictures
+- Some actual pictures
 - the B.O.M.
 
 ### Basic required hardware:
 - Drill press
-- *a way to cut wood straight* (circular saw with guide, table circular saw, or jigsaw with skill)
+- **a way to cut wood straight** (circular saw with guide, table circular saw, or jigsaw with skill)
